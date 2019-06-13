@@ -1,4 +1,4 @@
-# C-Compiler---Code-Optimizer-and-Evaluator
+# C Compiler Code Optimizer & Evaluator
 
 Optimizing C code by performing loop optimizations, redundancy elimination using algorithms.
 

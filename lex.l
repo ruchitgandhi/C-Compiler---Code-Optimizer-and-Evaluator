@@ -1,6 +1,6 @@
 %{
 #include "node.h"
-#include "y.tab.h"
+#include "yacc.tab.h"
 %}
 
 LETTER [A-Za-z]
